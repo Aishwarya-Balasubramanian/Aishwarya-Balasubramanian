@@ -104,6 +104,6 @@ Visualizes job-skill mappings and regional wage trends using ONET and OEWS data.
 
 📧 Email: [aishwarya311@gmail.com](mailto:aishwarya311@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/aishwarya-balasubramanian-ba76b4233](https://www.linkedin.com/in/aishwarya-balasubramanian-ba76b4233)  
-📂 GitHub: [github.com/Aishwarya-Arvindh](https://github.com/Aishwarya-Arvindh)
+📂 GitHub: [github.com/Aishwarya-Balasubramanian](https://github.com/Aishwarya-Balasubramanian)
 
 ---
