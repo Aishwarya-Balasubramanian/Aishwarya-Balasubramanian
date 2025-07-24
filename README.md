@@ -3,7 +3,7 @@
 Data Engineer | XR & Healthcare Researcher | Ethical AI Developer  
 Fairfax, VA • <a href="mailto:aishwarya311@gmail.com">aishwarya311@gmail.com</a> • 
 <a href="https://www.linkedin.com/in/aishwarya-balasubramanian-ba76b4233/">LinkedIn</a> • 
-<a href="https://github.com/Aishwarya-Arvindh">GitHub</a>
+<a href="https://github.com/Aishwarya-Balasubramanian">GitHub</a>
 </p>
 
 ---
