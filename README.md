@@ -94,8 +94,8 @@ Visualizes job-skill mappings and regional wage trends using ONET and OEWS data.
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-Arvindh&show_icons=true&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-Arvindh&layout=compact&hide=html,css" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-Balasubramanian&show_icons=true&hide_title=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-Balasubramanian&layout=compact&hide=html,css" height="165" />
 </p>
 
 ---
